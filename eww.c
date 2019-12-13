@@ -17,7 +17,7 @@
 #define aaAA main
 
 AAAa AaA  aAAA aAaa  aA, aAaa Aa, aAaa AA aAaA AaAA aAaa aaAA aAAA
-aAaA  aaaa  aaAa aAAA  "Enter int length of Fibinacci sequence:\n"
+aAaA  aaaa aaAa aAAA "%c%c%c%c%c%c:\n",76,0x65, 0x6E, 103,0x74,104
 aAaA AaAA aAaa aaaAa AaAA                aAaa A  AAaa 1  AaAA aAaa
 aAaAaa  AAaa 0 AaAA aAAa                  aAAA "%d" , & aaaAa aAaA
 AaAA  aAaa  aaAaa  AaAA        aAaa        aAaaa  AaAA  aAaa AaAaA
