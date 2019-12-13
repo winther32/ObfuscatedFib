@@ -18,6 +18,5 @@ int main(){
         lastlast = last;
         last = current;
     }
-
     printf("\nDone\n");
 }
