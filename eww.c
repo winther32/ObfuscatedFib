@@ -16,9 +16,16 @@
 #define AaAa -
 #define aaAA main
 
-AAAa AaA aAAA aAaa aA, aAaa Aa, aAaa AA aAaA<% aaAa aAAA"1 "aAaA AaAA aaaA aAAA aAaa A AAaa 1 AaAA A AAaA AA AaAA A AAaa A+1 aAaA aaaa aAaa aaA AAaa aA + Aa AaAA
-aaAa aAAA"%d ", aaA aAaA AaAA Aa AAaa aA AaAA aA AAaa aaA AaAA AaaA aaAa aAAA"\nDone\n"aAaA AaAA AaaA
-aAaa aaAA aAAA aAaA aaaa aaAa aAAA"How many fibonacci numbers do you want to see?\n" aAaA AaAA
-aAaa aaaAa AaAA aAaa A AAaa 1 AaAA aAaa aAaAaa AAaa 0 AaAA aAAa aAAA"%d", &aaaAa aAaA AaAA
-aAaa aaAaa AaAA aAaa aAaaa AaAA aAaa AaAaA AaAA aaAaa AAaa aAaaa AAaa AaAaA AAaa aaaAa AaAA aAAA aAaaa AAaA 1 aAaA? 
-aAAA aaAa aAAA"Enter AAaa positive integer!\n"aAaA,aaAA aAAA aAaA aAaA:AaA aAAA A,aAaAaa,aaaAa aAaA AaAA AaaA
+AAAa AaA  aAAA aAaa  aA, aAaa Aa, aAaa AA aAaA AaAA aAaa aaAA aAAA
+aAaA  aaaa  aaAa aAAA  "Enter int length of Fibinacci sequence:\n"
+aAaA AaAA aAaa aaaAa AaAA                aAaa A  AAaa 1  AaAA aAaa
+aAaAaa  AAaa 0 AaAA aAAa                  aAAA "%d" , & aaaAa aAaA
+AaAA  aAaa  aaAaa  AaAA        aAaa        aAaaa  AaAA  aAaa AaAaA
+AaAA aaAaa AAaa  aAaaa         AAaa         AaAaA AAaa  aaaAa AaAA
+aAAA   aAaaa  AAaA  1          aAaA          ?aaAA aAAA aAaA : AaA
+aAAA A,aAaAaa, aaaAa                          aAaA AaAA  AaaA AAAa
+AaA  aAAA  aAaa aA,          aAaa Aa,          aAaa  AA  aAaA aaaa
+aaAa aAAA "1 "aAaA          AaAA  aaaA          aAAA aAaa  A  AAaa
+1 AaAA A AAaA  AA          AaAA  A AAaa          A + 1  aAaA  aaaa
+aAaa  aaA AAaa aA + Aa AaAA aaAa aAAA "%d ",aaA aAaA  AaAA Aa AAaa
+aA  AaAA  aA  AAaa aaA  AaAA  AaaA aaAa aAAA "\n" aAaA  AaAA  AaaA
