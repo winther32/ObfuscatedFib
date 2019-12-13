@@ -1,41 +1,24 @@
 #include <stdio.h> 
 
-#define a =
-#define aa int
-#define AAA for
-#define aaa scanf
-#define aaAa printf
-#define aAa main
-#define Aaa void
-#define aaaa {
 #define AaaA }
-#define AaAAa (
+#define AAAa void
+#define aAAA (
+#define aaAa printf
+#define aaaA for
+#define AAaA <
 #define aAaA )
-#define AaAaa ;
+#define aaaa {
+#define aAAa scanf
+#define aAaa int
+#define Aaaa >
+#define AAaa =
+#define AaAA ;
+#define AaAa -
+#define aaAA main
 
-Aaa AaA AaAAa aa aA, aa Aa, aa AA aAaA<%
-    aaAa AaAAa"1 "aAaA AaAaa
-    AAA AaAAa aa A a 1 AaAaa A < AA AaAaa A++aAaA aaaa
-        aa aaA a aA + Aa AaAaa
-        aaAa AaAAa"%d ", aaA aAaA AaAaa
-        Aa a aA AaAaa
-        aA a aaA AaAaa
-    AaaA
-    aaAa AaAAa"\nDone\n"aAaA AaAaa
-AaaA
-
-aa aAa AaAAa aAaA aaaa
-    aaAa AaAAa"How many fibonacci numbers do you want to see?\n" aAaA AaAaa
-    aa aaaAa AaAaa
-    aa A a 1 AaAaa
-    aa aAaAaa a 0 AaAaa
-    aaa AaAAa"%d", &aaaAa aAaA AaAaa
-    aa aaAaa AaAaa aa aAaaa AaAaa aa AaAaA AaAaa
-    aaAaa a aAaaa a AaAaA a aaaAa AaAaa
-    AaAAa aAaaa < 1 aAaA ? 
-        AaAAa aaAa("Enter a positive integer!\n"aAaA, 
-        aAa AaAAa aAaA aAaA
-        : 
-        AaA AaAAa A,aAaAaa,aaaAa aAaA
-         AaAaa     
-AaaA
+AAAa AaA aAAA aAaa aA, aAaa Aa, aAaa AA aAaA<% aaAa aAAA"1 "aAaA AaAA aaaA aAAA aAaa A AAaa 1 AaAA A AAaA AA AaAA A AAaa A+1 aAaA aaaa aAaa aaA AAaa aA + Aa AaAA
+aaAa aAAA"%d ", aaA aAaA AaAA Aa AAaa aA AaAA aA AAaa aaA AaAA AaaA aaAa aAAA"\nDone\n"aAaA AaAA AaaA
+aAaa aaAA aAAA aAaA aaaa aaAa aAAA"How many fibonacci numbers do you want to see?\n" aAaA AaAA
+aAaa aaaAa AaAA aAaa A AAaa 1 AaAA aAaa aAaAaa AAaa 0 AaAA aAAa aAAA"%d", &aaaAa aAaA AaAA
+aAaa aaAaa AaAA aAaa aAaaa AaAA aAaa AaAaA AaAA aaAaa AAaa aAaaa AAaa AaAaA AAaa aaaAa AaAA aAAA aAaaa AAaA 1 aAaA? 
+aAAA aaAa aAAA"Enter AAaa positive integer!\n"aAaA,aaAA aAAA aAaA aAaA:AaA aAAA A,aAaAaa,aaaAa aAaA AaAA AaaA
