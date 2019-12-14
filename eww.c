@@ -1,29 +1,29 @@
 #include <stdio.h> 
-#define AaaA                                                                          }
-#define AAAa                                                                          void  
-#define aAAA                                                                          (
-#define aaAa                                                                          printf
-#define aaaA                                                                          for
-#define AAaA                                                                          <
-#define aAaA                                                                          )
-#define aaaa                                                                          {
-#define aAAa                                                                          scanf
-#define aAaa                                                                          int
-#define Aaaa                                                                          >
-#define AAaa                                                                          =
-#define AaAA                                                                          ;     
-#define AaAa                                                                          -
-#define aaAA                                                                          main
-                AAAa AaA  aAAA aAaa  aA, aAaa Aa, aAaa AA aAaA AaAA aAaa aaAA aAAA
-                aAaA  aaaa aaAa aAAA "%c%c%c%c%c%c:\n",76,0x65, 0x6E, 103,0x74,104
-                aAaA AaAA aAaa aaaAa AaAA                aAaa A  AAaa 1  AaAA aAaa
-                aAaAaa  AAaa 0 AaAA aAAa                  aAAA "%d" , & aaaAa aAaA
-                AaAA  aAaa  aaAaa  AaAA        aAaa        aAaaa  AaAA  aAaa AaAaA
-                AaAA aaAaa AAaa  aAaaa         AAaa         AaAaA AAaa  aaaAa AaAA
-                aAAA   aAaaa  AAaA  1          aAaA          ?aaAA aAAA aAaA : AaA
-                aAAA A,aAaAaa, aaaAa                          aAaA AaAA  AaaA AAAa
-                AaA  aAAA  aAaa aA,          aAaa Aa,          aAaa  AA  aAaA aaaa
-                aaAa aAAA "1 "aAaA          AaAA  aaaA          aAAA aAaa  A  AAaa
-                1 AaAA A AAaA  AA          AaAA  A AAaa          A + 1  aAaA  aaaa
-                aAaa  aaA AAaa aA + Aa AaAA aaAa aAAA "%d ",aaA aAaA  AaAA Aa AAaa
-                aA  AaAA  aA  AAaa aaA  AaAA  AaaA aaAa aAAA "\n" aAaA  AaAA  AaaA
+#define uvvu                                                                          }
+#define uuuv                                                                          void
+#define vuuu                                                                          (
+#define vvuv                                                                          printf
+#define vvvu                                                                          for
+#define uuvu                                                                          <
+#define vuvu                                                                          )
+#define vvvv                                                                          {
+#define vuuv                                                                          scanf
+#define vuvv                                                                          int
+#define uvvv                                                                          >
+#define uuvv                                                                          =
+#define uvuu                                                                          ;
+#define uvuv                                                                          -
+#define vvuu                                                                          main
+                uuuv uvu  vuuu vuvv  vu, vuvv uv, vuvv uu vuvu uvuu vuvv vvuu vuuu
+                vuvu  vvvv vvuv vuuu "%c%c%c%c%c%c:",76,0x65, 0x6E, 103, 0x74, 104
+                vuvu uvuu vuvv vvvuv uvuu                vuvv u  uuvv 1  uvuu vuvv
+                vuvuvv  uuvv 0 uvuu vuuv                  vuuu "%d" , & vvvuv vuvu
+                uvuu  vuvv  vvuvv  uvuu        vuvv        vuvvv  uvuu  vuvv uvuvu
+                uvuu vvuvv uuvv  vuvvv         uuvv         uvuvu uuvv  vvvuv uvuu
+                vuuu   vuvvv  uuvu  1          vuvu          ?vvuu vuuu vuvu : uvu
+                vuuu u,vuvuvv, vvvuv                          vuvu uvuu  uvvu uuuv
+                uvu  vuuu  vuvv vu,          vuvv uv,          vuvv  uu  vuvu vvvv
+                vvuv vuuu "1 "vuvu          uvuu  vvvu          vuuu vuvv  u  uuvv
+                1 uvuu u uuvu  uu          uvuu  u uuvv          u + 1  vuvu  vvvv
+                vuvv  vvu uuvv vu + uv uvuu vvuv vuuu "%d ",vvu vuvu  uvuu uv uuvv
+                vu  uvuu  vu  uuvv vvu  uvuu  uvvu vvuv vuuu "\n" vuvu  uvuu  uvvu
